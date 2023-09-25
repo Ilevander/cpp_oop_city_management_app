@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1673825643 source:c:\users\elamr\documents\ville\main.cpp
+	"ville.h"
+
+1673825643 c:\users\elamr\documents\ville\ville.h
+	<iostream>
+	<cstring>
+
+1673825763 source:c:\users\elamr\documents\ville\ville.cpp
+	"ville.h"
+
